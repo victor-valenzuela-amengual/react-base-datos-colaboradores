@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-base-datos-colaboradores/static/css/main.c2cab247.css",
-    "main.js": "/react-base-datos-colaboradores/static/js/main.7f232a50.js",
+    "main.js": "/react-base-datos-colaboradores/static/js/main.d5d5a204.js",
     "index.html": "/react-base-datos-colaboradores/index.html",
     "main.c2cab247.css.map": "/react-base-datos-colaboradores/static/css/main.c2cab247.css.map",
-    "main.7f232a50.js.map": "/react-base-datos-colaboradores/static/js/main.7f232a50.js.map"
+    "main.d5d5a204.js.map": "/react-base-datos-colaboradores/static/js/main.d5d5a204.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.7f232a50.js"
+    "static/js/main.d5d5a204.js"
   ]
 }
