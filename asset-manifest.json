@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/victor-va%C3%B1enzuela-amengual/react-base-datos-colaboradores/static/css/main.c2cab247.css",
+    "main.js": "/victor-va%C3%B1enzuela-amengual/react-base-datos-colaboradores/static/js/main.7f232a50.js",
+    "index.html": "/victor-va%C3%B1enzuela-amengual/react-base-datos-colaboradores/index.html",
+    "main.c2cab247.css.map": "/victor-va%C3%B1enzuela-amengual/react-base-datos-colaboradores/static/css/main.c2cab247.css.map",
+    "main.7f232a50.js.map": "/victor-va%C3%B1enzuela-amengual/react-base-datos-colaboradores/static/js/main.7f232a50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.7f232a50.js"
+  ]
+}
