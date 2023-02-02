@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-base-datos-colaboradores/static/css/main.c2cab247.css",
-    "main.js": "/react-base-datos-colaboradores/static/js/main.d5d5a204.js",
-    "index.html": "/react-base-datos-colaboradores/index.html",
-    "main.c2cab247.css.map": "/react-base-datos-colaboradores/static/css/main.c2cab247.css.map",
-    "main.d5d5a204.js.map": "/react-base-datos-colaboradores/static/js/main.d5d5a204.js.map"
+    "main.css": "/static/css/main.c2cab247.css",
+    "main.js": "/static/js/main.d5d5a204.js",
+    "index.html": "/index.html",
+    "main.c2cab247.css.map": "/static/css/main.c2cab247.css.map",
+    "main.d5d5a204.js.map": "/static/js/main.d5d5a204.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
